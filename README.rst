@@ -17,3 +17,8 @@ A little side-effect: Font weight is slightly lighter compared to the original f
 
 Software: Fontforge.
 
+P.S
+============================================================
+
+A tiny modification to glyph '1'.
+
